@@ -1,7 +1,7 @@
 <template>
   <nav class="main-nav flex gap-15">
     <g-link to="https://gridsomify.com">
-      <span class="main-nav__label">Docs</span>
+      <span class="main-nav__label">Gridsome + Shopify</span>
     </g-link>
 
     <g-link to="/starters/">
