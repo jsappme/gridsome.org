@@ -11,8 +11,8 @@
         </h1>
 
         <p class="home-links">
-          <g-link  to="/docs/" class="button primary button--large">
-            Get started
+          <g-link  to="https://gridsomify.com" class="button primary button--large">
+            Gridsome + Shopify
           </g-link>
         </p>
 

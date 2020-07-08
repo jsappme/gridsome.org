@@ -11,8 +11,8 @@
         </p>
 
         <p class="intro__links">
-          <g-link  to="/docs/" class="button primary button--large">
-            <span>Get started</span>
+          <g-link  to="https://gridsomify.com" class="button primary button--large">
+            <span>Gridsome + Shopify</span>
           </g-link>
         </p>
 
